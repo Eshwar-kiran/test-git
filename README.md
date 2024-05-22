@@ -13,3 +13,4 @@ This is another lint check this out!
 # Link:
 [This is the Link](https://yush.dev)
 
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
