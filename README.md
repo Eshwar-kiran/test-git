@@ -7,4 +7,4 @@
 # paragraphs:
 Any texts like this are called paragraphs.
 
-This is another lint check this out!
+This is another lint check this out! *This part is going to be italic*  **this part is going to be bold**
