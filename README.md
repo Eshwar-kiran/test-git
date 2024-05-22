@@ -23,4 +23,8 @@ This is another lint check this out!
 - item3
    - item 3.1
    - item 3.2
-   - item 3.3 
+   - item 3.3
+1. Item A
+2. Item B
+3. Item C
+4. Item D
