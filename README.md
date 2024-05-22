@@ -7,4 +7,9 @@
 # paragraphs:
 Any texts like this are called paragraphs.
 
-This is another lint check this out! *This part is going to be italic*  **this part is going to be bold**
+This is another lint check this out! 
+*This part is going to be italic*  
+**this part is going to be bold**
+# Link:
+[This is the Link](https://yush.dev)
+
