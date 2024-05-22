@@ -21,4 +21,4 @@ This is another lint check this out!
 - item1
 - item2
 - item3
--   item 3.1
+    -item 3.1
